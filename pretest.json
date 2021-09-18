@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  A bacteriophage is ____________",
+      "answers": {
+        "a": "virus that infects a bacterium",
+        "b": "bacterium that infects a virus",
+        "c": "bacterium",
+        "d": "virus"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. For a valid pahge count, the number of plaques per plate should be  ",
+      "answers": {
+        "a": "More than 300",
+        "b": "Less than 30",
+        "c": "In between 30-300",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. A plaque assay detects the number of __________",
+      "answers": {
+        "a": "Bacterial auxotrophs",
+        "b": "Dental cavities",
+        "c": "Bacterial viruses",
+        "d": "Bacterial prototrophs"
+      },
+          
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. Forty-eight (48) plaques were counted in a plate when 0.1 ml of bacteriophage-infected bacteria from 10¯⁶ dilution (10 ml culture) was plated. The original bacteriophage density was: ",
+        "answers": {
+          "a": "4.8 X 10⁶",
+          "b": "48 X 10¯⁶",
+          "c": "4.8X 10¯ ⁷",
+          "d": "48 X 10⁷"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
