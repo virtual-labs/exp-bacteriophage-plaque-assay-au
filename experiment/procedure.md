@@ -2,7 +2,7 @@
  
  &nbsp;
  
-### Cultures:
+#### Cultures:
  
 
 24- hour nutrient broth cultures of Escheria coli B and T2 coli phage.
@@ -11,7 +11,7 @@
 &nbsp;
   
 
-### Media:
+#### Media:
  
 
 Tryptone agar plates, Tryptone soft agar tubes (2ml/tube) and tryptone broth tubes (9ml/tube)
@@ -20,7 +20,7 @@ Tryptone agar plates, Tryptone soft agar tubes (2ml/tube) and tryptone broth tub
  &nbsp;
   
 
-### Equipments:
+#### Equipments:
  
 
 Bunsen burner
@@ -126,8 +126,7 @@ To calculate the viral titer,
 <img src="images/phage3.jfif" title="" />
 
 
-Where,   d = dilution
-              v = volume of diluted virus added to the plate
+Where,   d = dilution ; v = volume of diluted virus added to the plate
  
 
 
