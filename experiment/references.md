@@ -1,4 +1,3 @@
-## References
 
 ### Text Books:
  
@@ -6,7 +5,8 @@
 
 2.	Brown E. Alfred, Benson’s Microbiological Applications, ninth edition, McGraw Hill
  
- &nbsp;
+&nbsp;
+
  
 ### Webliography:
  
@@ -14,7 +14,7 @@
 
 2.	www.waksmanfoundation.org/labs/wisteb/virus.htm
 
-3.	stone.ms.brevard.k12.fl.us/science/research/student/jessicag/procedure.html
+3.	www.stone.ms.brevard.k12.fl.us/science/research/student/jessicag/procedure.html
 
 4.	www.crcnetbase.com/doi/abs/10.1201/9781420009330.ch7
 
